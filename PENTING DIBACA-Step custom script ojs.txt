@@ -1,0 +1,23 @@
+cara meletakan script pada menu right sidebar:
+*login sbg journal manager 
+*klik menu journal manager
+*klik system plugin
+*klik generic plugin--klik enable jika belum, jika suda klik setting custom block maanager--buat nama block plugin baru kemudian save.
+*klik system plugin--klik custom block manager--cari block baru yg dibuat tadi--edit, kemudian klik icon (html)dibawah dan paste script sesuaikan dengan kebutuhan 
+
+
+Cara meletakan script pada menu body dan atau menu footer:
+*login sbg journal manager
+*klik menu setup
+*klik tahap 5 (the look/tampilan)
+*penempatan bisa di additional content 5.2 atau di journal page footer 5.4
+
+Cara meletakkan script CSS theme :
+*login sbg journal manager
+*klik menu setup
+*klik tahap 5 (the look/tampilan)
+*sebelum langkah ini baca (NB)kemudian upload file css tersebut ke bagian 5.6 (journal layout) upload pada bagian journak style sheet dan pilihan journal theme nya None---> Upload---> Simpan-----> 
+
+NB: PERHATIAN!! (Sebelum upload css theme journal ini sangat disarankan untuk merubah kode warna pada css sesuai dengan warna identitas jurnal masing-masing)
+Cara mengubah kode warna pada css bisa ikuti langkah/tutorial berikut ini:
+https://tulisanwortel.com/kode-warna-html-css/ 
